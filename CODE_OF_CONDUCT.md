@@ -1,7 +1,7 @@
 # Code of Conduct
 
 <p align="right">
-  <a href="#የአስተዋጽዖ-አበርካች-የኪዳን-ሥነ-ምግባር-ደንብ">Amharic</a> |
+  <a href="#የአስተዋጽዖ-አበርካች-የኪዳን-ሥነ-ምግባር-ደንብ">አማርኛ</a> |
   <a href="#contributor-covenant-code-of-conduct">English</a>
 </p>
 
