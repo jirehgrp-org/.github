@@ -1,4 +1,4 @@
-# Code of Conduct
+# የኪዳን ሥነ ምግባር ደንብ | Code of Conduct
 
 <p align="right">
   <a href="#የአስተዋጽዖ-አበርካች-የኪዳን-ሥነ-ምግባር-ደንብ">አማርኛ</a> |
