@@ -1,11 +1,11 @@
 # ጃይረ ግሩፕ | JirehGroup
 
 <p align="right">
-  <a href="#አማርኛ">ወደ አማርኛ ይሂዱ</a> | 
-  <a href="#english">Go to English</a>
+  <a href="#አማርኛ">አማርኛ</a> | 
+  <a href="#english">English</a>
 </p>
 
-## <a id="አማርኛ"></a>🇪🇹 አማርኛ
+## <a id="አማርኛ"></a>አማርኛ
 
 # ወደ ጃይረ ግሩፕ እንኳን ደህና መጡ!
 
@@ -40,7 +40,7 @@
 
 ---
 
-## <a id="english"></a>🇬🇧 English
+## <a id="english"></aEnglish
 
 # Welcome to JirehGroup!
 
