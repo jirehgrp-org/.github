@@ -1,7 +1,6 @@
 # ጃይረ ግሩፕ | JirehGroup
 
 <p align="right">
-  <a href="#አማርኛ">አማርኛ</a> | 
   <a href="#english">English</a>
 </p>
 
@@ -36,11 +35,11 @@
 
 **[ከጃይረ ግሩፕ](https://jirehgrp.com) ቡድን በ❤️ የተሰራ**
 
----
+<p align="right">
+  <a href="#አማርኛ">አማርኛ</a>
+</p>
 
----
-
-## <a id="english"></a>🇬🇧English
+## <a id="english"></a>🇺🇸 English
 
 # Welcome to JirehGroup! 🚀
 
