@@ -5,7 +5,7 @@
   <a href="#english">English</a>
 </p>
 
-## <a id="አማርኛ"></a>አማርኛ
+## <a id="አማርኛ"></a>🇪🇹 አማርኛ
 
 # ወደ ጃይረ ግሩፕ እንኳን ደህና መጡ!
 
@@ -40,7 +40,7 @@
 
 ---
 
-## <a id="english"></aEnglish
+## <a id="english"></a>🇬🇧English
 
 # Welcome to JirehGroup!
 
