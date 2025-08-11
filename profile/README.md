@@ -35,6 +35,8 @@
 
 **[ከጃይረ ግሩፕ](https://jirehgrp.com) ቡድን በ❤️ የተሰራ**
 
+---
+
 <p align="right">
   <a href="#አማርኛ">አማርኛ</a>
 </p>
