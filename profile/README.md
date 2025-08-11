@@ -1,22 +1,12 @@
 # ጃይረ ግሩፕ | JirehGroup
 
-## ማውጫ | Table of Contents
-- [አማርኛ](#-አማርኛ)
-  - [ወደ ጃይረ ግሩፕ እንኳን ደህና መጡ](#ወደ-ጃይረ-ግሩፕ-እንኳን-ደህና-መጡ)
-  - [እኛ ማን ነን](#እኛ-ማን-ነን)
-  - [ምን እንሰራለን](#ምን-እንሰራለን)
-  - [ይሳተፉ](#ይሳተፉ)
-  - [እንገናኝ](#እንገናኝ)
-- [English](#-english)
-  - [Welcome to JirehGroup!](#welcome-to-jirehgroup)
-  - [Who We Are](#who-we-are)
-  - [What We Do](#what-we-do)
-  - [Get Involved](#get-involved)
-  - [Let’s Connect](#lets-connect)
+---
+
+[🇪🇹 ወደ አማርኛ ይሂዱ](#አማርኛ) | [🇬🇧 Go to English](#english)
 
 ---
 
-## 🇪🇹 አማርኛ
+## <a id="አማርኛ"></a>🇪🇹 አማርኛ
 
 # ወደ ጃይረ ግሩፕ እንኳን ደህና መጡ!
 
@@ -51,9 +41,7 @@
 
 ---
 
----
-
-## 🇬🇧 English
+## <a id="english"></a>🇬🇧 English
 
 # Welcome to JirehGroup!
 
