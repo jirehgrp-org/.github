@@ -34,7 +34,7 @@
 የድረ ገጻችንን ይጎብኙ፡ [jirehgrp.com](https://jirehgrp.com)  
 በ GitHub ላይ ይከተሉን እና ስራዎቻችንን ይከታተሉ።
 
-**ከጃይረ ግሩፕ ቡድን በ❤️ የተሰራ**
+**[ከጃይረ ግሩፕ](https://jirehgrp.com) ቡድን በ❤️ የተሰራ**
 
 ---
 
@@ -42,31 +42,87 @@
 
 ## <a id="english"></a>🇬🇧English
 
-# Welcome to JirehGroup!
+# Welcome to JirehGroup! 🚀
+
+We’re a team of engineers, researchers, and creatives building technology that shapes the future. Here are some of our latest standout projects:
+
+---
+
+## 🌟 Featured Projects
+
+### create-jireh  
+[![npm](https://img.shields.io/npm/v/create-jireh?style=flat-square)](https://www.npmjs.com/package/create-jireh) [![GitHub stars](https://img.shields.io/github/stars/jirehgrp-org/create-jireh?style=flat-square)](https://github.com/jirehgrp-org/create-jireh/stargazers)
+
+A fast, interactive CLI tool for scaffolding frontend projects from the Jireh Group Templates repository. Supports Next.js, React + Vite, Vue 3 + Vite, SvelteKit + Vite, Vanilla JS/TS, and Vanilla + Vite — all preconfigured with multilingual (🇪🇹 / 🇺🇸) and theme toggle support.
+
+- Interactive CLI for easy scaffolding  
+- Supports multiple modern frontend frameworks  
+- Multilingual and theme toggle ready  
+- Works with npm, yarn, pnpm, and bun  
+- Git integration and project structure tree generation
+
+Try it out with:
+
+```bash
+npx create-jireh@latest
+````
+
+or the short alias
+
+```bash
+npx jirehgrp@latest
+```
+
+[Learn more & contribute →](https://github.com/jirehgrp-org/create-jireh)
+
+---
+
+### jirehgrp-templates
+
+[![GitHub stars](https://img.shields.io/github/stars/jirehgrp-org/jirehgrp-templates?style=flat-square)](https://github.com/jirehgrp-org/jirehgrp-templates/stargazers)
+
+Official frontend starter templates repository powering `create-jireh`. Includes boilerplates for Next.js, React, Vue 3, SvelteKit, and Vanilla JS/TS, all with multilingual and theme toggle support.
+
+* Best-practice templates for rapid scaffolding
+* Multilingual (Amharic 🇪🇹 + English 🇺🇸) support
+* Dark/light mode toggle included
+* Supports JavaScript & TypeScript variants
+
+Explore the templates here: [jirehgrp-templates repo](https://github.com/jirehgrp-org/jirehgrp-templates)
+
+---
+
+## About JirehGroup
 
 **JirehGroup** is where innovation meets execution. We specialize in:
 
-- Expert Software Development  
-- Advanced AI & Machine Learning Solutions  
-- Cutting-edge Research & Tech Initiatives  
-- Full-spectrum Technology Services  
-- Open-Source Contributions & Community Support  
+* Expert Software Development
+* Advanced AI & Machine Learning Solutions
+* Cutting-edge Research & Tech Initiatives
+* Full-spectrum Technology Services
+* Open-Source Contributions & Community Support
 
-### Who We Are  
-We're a team of engineers, researchers, and creatives building technology that shapes the future. At JirehGroup, we believe in clean code, purposeful design, and scalable solutions that drive real-world impact.
+### Who We Are
 
-### What We Do  
-- Build web, mobile, and PC apps with the latest technologies  
-- Develop intelligent systems powered by AI and data science  
-- Design and implement scalable cloud-native architectures  
-- Conduct R&D in emerging technologies  
-- Release open-source tools and resources for the global developer community
+We believe in clean code, purposeful design, and scalable solutions that drive real-world impact.
 
-### Get Involved  
+### What We Do
+
+* Build web, mobile, and PC apps with the latest technologies
+* Develop intelligent systems powered by AI and data science
+* Design and implement scalable cloud-native architectures
+* Conduct R\&D in emerging technologies
+* Release open-source tools and resources for the global developer community
+
+### Get Involved
+
 We’re passionate about collaboration, innovation, and giving back. Check out our public repositories for tools, libraries, and experiments we're proud to share!
 
-### Let’s Connect  
-Visit our website: [jirehgrp.com](https://jirehgrp.com)  
-Follow us on GitHub to stay up to date with our latest work and open-source projects.
+### Let’s Connect
 
-**Made with ❤️ by the JirehGroup Team**
+🌐 Website: [jirehgrp.com](https://jirehgrp.com)
+🐙 GitHub: [github.com/jirehgrp-org](https://github.com/jirehgrp-org)
+
+---
+
+**Made with ❤️ by the [JirehGroup](https://jirehgrp.com) Team**
